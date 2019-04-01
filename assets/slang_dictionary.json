@@ -1,0 +1,626 @@
+[
+    {
+        "term": "Scoop",
+        "definition": "To pick someone up like at their house"
+    },
+    {
+        "term": "Finna",
+        "definition": "Fixing to do something"
+    },
+    {
+        "term": "Yeet",
+        "definition": "A way to express excitement over something"
+    },
+    {
+        "term": "Skeet",
+        "definition": "Let’s go"
+    },
+    {
+        "term": "Dip",
+        "definition": "To leave"
+    },
+    {
+        "term": "Mans",
+        "definition": "A man/person"
+    },
+    {
+        "term": "Low key",
+        "definition": "To keep something confidential between friends"
+    },
+    {
+        "term": "High key",
+        "definition": "I don’t care who knows"
+    },
+    {
+        "term": "AMOSC",
+        "definition": "Add me on snapchat"
+    },
+    {
+        "term": "Gualla",
+        "definition": "Money"
+    },
+    {
+        "term": "Rn",
+        "definition": "Right now"
+    },
+    {
+        "term": "Slick",
+        "definition": "Cool"
+    },
+    {
+        "term": "Geekin",
+        "definition": "Laughing too hard and too loud"
+    },
+    {
+        "term": "Bet",
+        "definition": "Something is going to happen"
+    },
+    {
+        "term": "Curve",
+        "definition": "To reject someone romantically"
+    },
+    {
+        "term": "Salty",
+        "definition": "Talking in a sassy or bitter way"
+    },
+    {
+        "term": "WRU",
+        "definition": "Where are you?"
+    },
+    {
+        "term": "WUD",
+        "definition": "What are you doing?"
+    },
+    {
+        "term": "LYAAF",
+        "definition": "Love you as a friend"
+    },
+    {
+        "term": "NC",
+        "definition": "No comment"
+    },
+    {
+        "term": "IDKWTD",
+        "definition": "I don’t know what to do"
+    },
+    {
+        "term": "DOH",
+        "definition": "Expression of frustration, or realizing something"
+    },
+    {
+        "term": "123",
+        "definition": "I agree"
+    },
+    {
+        "term": "Hml",
+        "definition": "Hit my line; call or text me, I’ll be waiting"
+    },
+    {
+        "term": "OBS",
+        "definition": "Obviously"
+    },
+    {
+        "term": "OFC",
+        "definition": "Of course"
+    },
+    {
+        "term": "ACC",
+        "definition": "Actually"
+    },
+    {
+        "term": "POA",
+        "definition": "Plan of action"
+    },
+    {
+        "term": "IMO",
+        "definition": "In My Opinion"
+    },
+    {
+        "term": "GOMB",
+        "definition": "Get Off My Back"
+    },
+    {
+        "term": "KOTL",
+        "definition": "Kiss On The Lips"
+    },
+    {
+        "term": "Huggle",
+        "definition": "Hug and snuggle"
+    },
+    {
+        "term": "Ship",
+        "definition": "Abbreviation for relationship"
+    },
+    {
+        "term": "IDEK",
+        "definition": "I don’t even know"
+    },
+    {
+        "term": "IKR",
+        "definition": "I know, right?"
+    },
+    {
+        "term": "SMH",
+        "definition": "Shaking my head"
+    },
+    {
+        "term": "Thirsty",
+        "definition": "Desperate, impatient, or overly eager"
+    },
+    {
+        "term": "Dime",
+        "definition": "On an approval scale of 1-10; dime is a very attractive person"
+    },
+    {
+        "term": "Fam",
+        "definition": "Very good friend"
+    },
+    {
+        "term": "Basic",
+        "definition": "Someone or something is ordinary or boring"
+    },
+    {
+        "term": "Westan",
+        "definition": "Showing support for person or cause"
+    },
+    {
+        "term": "Woke",
+        "definition": "Awareness of current affairs or social issues (i.e., That girl is so woke 24/7.)"
+    },
+    {
+        "term": "Savage",
+        "definition": "When a person speaks or acts bluntly or without a filter in public"
+    },
+    {
+        "term": "Gucci",
+        "definition": "Very impressive"
+    },
+    {
+        "term": "Sus",
+        "definition": "Suspicious"
+    },
+    {
+        "term": "QQ",
+        "definition": "Quick question"
+    },
+    {
+        "term": "WTF",
+        "definition": "What the fuck"
+    },
+    {
+        "term": "WTH",
+        "definition": "What the heck/hell"
+    },
+    {
+        "term": "Af",
+        "definition": "As f***, used to mean “extremely”"
+    },
+    {
+        "term": "121",
+        "definition": "Let’s chat in a private message"
+    },
+    {
+        "term": "Aeap, alap",
+        "definition": "As early or as late as possible referencing parties"
+    },
+    {
+        "term": "Pods",
+        "definition": "For your Juul (vape)"
+    },
+    {
+        "term": "Clouds",
+        "definition": "The vapor from your vape"
+    },
+    {
+        "term": "F2F",
+        "definition": "Offering to video chat or meet in person"
+    },
+    {
+        "term": "LMIRL",
+        "definition": "Let’s meet in real life"
+    },
+    {
+        "term": "1174",
+        "definition": "Invitation to meet at a particular place, often for a wild party"
+    },
+    {
+        "term": "9",
+        "definition": "Parents are nearby"
+    },
+    {
+        "term": "CD9",
+        "definition": "Parents are nearby"
+    },
+    {
+        "term": "Code 9",
+        "definition": "Parents are nearby"
+    },
+    {
+        "term": "99",
+        "definition": "Parents are gone"
+    },
+    {
+        "term": "MOS, POS",
+        "definition": "Mom/Parents over shoulder"
+    },
+    {
+        "term": "KPC",
+        "definition": "Keeping parents clueless"
+    },
+    {
+        "term": "WTTP",
+        "definition": "Want to trade pictures?"
+    },
+    {
+        "term": "S2R",
+        "definition": "Send to Receive (pictures)"
+    },
+    {
+        "term": "Sugarpic",
+        "definition": "Refers to a suggestive or erotic photograph"
+    },
+    {
+        "term": "TDTM",
+        "definition": "Talk dirty to me"
+    },
+    {
+        "term": "THOT",
+        "definition": "That wh*** over there"
+    },
+    {
+        "term": "Zerg",
+        "definition": "To gang up on someone (a gaming term that has morphed into a bullying term)"
+    },
+    {
+        "term": "KMS, KYS",
+        "definition": "Kill myself, kill yourself"
+    },
+    {
+        "term": "TBH",
+        "definition": "To Be Honest (a candid compliment or an insult may follow)"
+    },
+    {
+        "term": "SWYP",
+        "definition": "So What’s Your Problem?"
+    },
+    {
+        "term": "182",
+        "definition": "I hate you"
+    },
+    {
+        "term": "Shade",
+        "definition": "Refers to “threw shade” or “throwing shade,” to put someone down."
+    },
+    {
+        "term": "A3",
+        "definition": "Anytime, anywhere, anyplace"
+    },
+    {
+        "term": "Blow",
+        "definition": "Cocaine"
+    },
+    {
+        "term": "Pearls",
+        "definition": "A nicely rolled blunt"
+    },
+    {
+        "term": "Bud",
+        "definition": "Marijuana"
+    },
+    {
+        "term": "Tree",
+        "definition": "Marijuana (i.e., Looking for tree, got any? )"
+    },
+    {
+        "term": "Dabbing",
+        "definition": "Concentrated doses of marijuana (began as a dance craze)"
+    },
+    {
+        "term": "420",
+        "definition": "Marijuana or let’s get high"
+    },
+    {
+        "term": "DOC",
+        "definition": "Drug of choice"
+    },
+    {
+        "term": "Yayo",
+        "definition": "Cocaine"
+    },
+    {
+        "term": "Baseball",
+        "definition": "Crack Cocaine"
+    },
+    {
+        "term": "Skrill",
+        "definition": "Money"
+    },
+    {
+        "term": "CID",
+        "definition": "Acid"
+    },
+    {
+        "term": "E",
+        "definition": "Ecstasy"
+    },
+    {
+        "term": "Hazel",
+        "definition": "Heroin"
+    },
+    {
+        "term": "Blue Boogers",
+        "definition": "Snorting Adderall or Ritalin"
+    },
+    {
+        "term": "Pharming",
+        "definition": "Getting into medicine cabinets to find drugs to get high on"
+    },
+    {
+        "term": "Pox",
+        "definition": "Opium"
+    },
+    {
+        "term": "Robo-tripping",
+        "definition": "Consuming cough syrup to get high"
+    },
+    {
+        "term": "Tweaking",
+        "definition": "High on amphetamines"
+    },
+    {
+        "term": "White Lady",
+        "definition": "Cocaine; heroin"
+    },
+    {
+        "term": "Wings",
+        "definition": "Cocaine; heroin"
+    },
+    {
+        "term": "crank",
+        "definition": "Meth"
+    },
+    {
+        "term": "uppers",
+        "definition": "Meth"
+    },
+    {
+        "term": "Crystal",
+        "definition": "Meth"
+    },
+    {
+        "term": "Tina",
+        "definition": "Meth"
+    },
+    {
+        "term": "Awks",
+        "definition": "Awkward"
+    },
+    {
+        "term": "Cancel",
+        "definition": "A rejection of a person, place or thing"
+    },
+    {
+        "term": "Cheddar",
+        "definition": "Money"
+    },
+    {
+        "term": "Dope",
+        "definition": "Cool or awesome"
+    },
+    {
+        "term": "GOAT",
+        "definition": "Greatest of all time"
+    },
+    {
+        "term": "Gucci",
+        "definition": "Good or cool"
+    },
+    {
+        "term": "​Hundo P",
+        "definition": "100 percent certain"
+    },
+    {
+        "term": "Lit",
+        "definition": "Amazing"
+    },
+    {
+        "term": "OMG",
+        "definition": "An abbreviation for \"oh my gosh\" or \"oh my God!\""
+    },
+    {
+        "term": "Rides",
+        "definition": "Sneakers or shoes"
+    },
+    {
+        "term": "Salty",
+        "definition": "Bitter"
+    },
+    {
+        "term": "Sic",
+        "definition": "Something that is cool"
+    },
+    {
+        "term": "Skurt",
+        "definition": "Go away"
+    },
+    {
+        "term": "Snatched",
+        "definition": "Looks good"
+    },
+    {
+        "term": "Straight Fire",
+        "definition": "Hot or trendy"
+    },
+    {
+        "term": "TBH",
+        "definition": "To be honest"
+    },
+    {
+        "term": "Thirsty",
+        "definition": "Trying to get attention"
+    },
+    {
+        "term": "V",
+        "definition": "very"
+    },
+    {
+        "term": "YOLO",
+        "definition": "You only live once"
+    },
+    {
+        "term": "Bae",
+        "definition": "\"Before anyone else\" and is often used to describe a boyfriend or girlfriend"
+    },
+    {
+        "term": "BF/GF",
+        "definition": "Boyfriend or girlfriend"
+    },
+    {
+        "term": "BFF",
+        "definition": "Best friends forever"
+    },
+    {
+        "term": "Bruh",
+        "definition": "Same as \"bro\""
+    },
+    {
+        "term": "Creeper",
+        "definition": "Someone who is socially awkward or tends to have stalker tendencies"
+    },
+    {
+        "term": "Curve",
+        "definition": "Romantic rejection"
+    },
+    {
+        "term": "Emo",
+        "definition": "Emotional or a drama queen"
+    },
+    {
+        "term": "Fly",
+        "definition": "Boys tend to refer to girls they think are good looking as \"fly\""
+    },
+    {
+        "term": "Hater or h8er",
+        "definition": "Someone who hates everything, even their friends"
+    },
+    {
+        "term": "n00b",
+        "definition": "A person who doesn't want to learn"
+    },
+    {
+        "term": "Ship",
+        "definition": "Short for 'relationship'"
+    },
+    {
+        "term": "Squad",
+        "definition": "A group of girls that hang out together regularly"
+    },
+    {
+        "term": "Sus",
+        "definition": "Suspect, not to be trusted"
+    },
+    {
+        "term": "Tight",
+        "definition": "In a close relationship"
+    },
+    {
+        "term": "Wanksta",
+        "definition": "A person trying to act tough, but who isn't really pulling it off"
+    },
+    {
+        "term": "Chillaxin",
+        "definition": "Chillin' and relaxing."
+    },
+    {
+        "term": "Crashy",
+        "definition": "Crazy and trashy"
+    },
+    {
+        "term": "Hangry",
+        "definition": "Hungry and angry"
+    },
+    {
+        "term": "Requestion",
+        "definition": "Request and a question"
+    },
+    {
+        "term": "Tope",
+        "definition": "Tight and dope"
+    },
+    {
+        "term": "Bye Felicia",
+        "definition": "A disrespectful way to dismiss someone who is unimportant"
+    },
+    {
+        "term": "CD9",
+        "definition": "Code 9, parents are here"
+    },
+    {
+        "term": "POS",
+        "definition": "Parents over shoulder (often used when texting to warn friends that mom or dad is reading)"
+    },
+    {
+        "term": "Throw Shade",
+        "definition": "Give someone a dirty look"
+    },
+    {
+        "term": "Tool",
+        "definition": "Refers to someone who is stupid or a geek"
+    },
+    {
+        "term": "CU46",
+        "definition": "See you for sex"
+    },
+    {
+        "term": "GNOC",
+        "definition": "Get naked on camera"
+    },
+    {
+        "term": "Molly",
+        "definition": "MDMA, a dangerous party drug"
+    },
+    {
+        "term": "NIFOC",
+        "definition": "Naked in front of the computer"
+    },
+    {
+        "term": "Netflix and Chill",
+        "definition": "Used as a front for inviting someone over to make out (or maybe more)"
+    },
+    {
+        "term": "Smash",
+        "definition": "Casual sex"
+    },
+    {
+        "term": "Turnt Up",
+        "definition": "To be high or drunk"
+    },
+    {
+        "term": "Zip Ghost",
+        "definition": "Someone who is high on marijuana and having a hard time functioning"
+    },
+    {
+        "term": "Dexing",
+        "definition": "Abusing cough syrup"
+    },
+    {
+        "term": "Crunk",
+        "definition": "Getting high and drunk at the same time"
+    },
+    {
+        "term": "X",
+        "definition": "Ecstasy"
+    },
+    {
+        "term": "53X",
+        "definition": "Sex"
+    },
+    {
+        "term": "WTTP",
+        "definition": "Want to trade photos?"
+    },
+    {
+        "term": "LMIRL",
+        "definition": "Let's meet in real life"
+    }
+]
